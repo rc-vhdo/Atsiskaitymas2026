@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f4f7;
+    margin: 0;
+    padding: 40px;
+    color: #243b53;
+}
+
+.container {
+    max-width: 720px;
+    background-color: white;
+    padding: 32px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #243b53;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #486581;
+}
+
+img {
+    width: 100%;
+    max-width: 520px;
+    margin: 22px 0;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.studentas {
+    margin-top: 28px;
+    padding: 14px;
+    background-color: #e8f1ff;
+    border-radius: 8px;
+    font-weight: bold;
+}

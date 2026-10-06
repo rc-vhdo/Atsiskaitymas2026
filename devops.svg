@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <rect width="900" height="420" rx="28" fill="#e8f1ff"/>
+  <circle cx="450" cy="210" r="125" fill="#ffffff" stroke="#486581" stroke-width="8"/>
+  <path d="M365 190 C390 130, 460 130, 490 180 C515 220, 570 215, 590 170"
+        fill="none" stroke="#2f80ed" stroke-width="20" stroke-linecap="round"/>
+  <path d="M535 230 C510 290, 440 290, 410 240 C385 200, 330 205, 310 250"
+        fill="none" stroke="#243b53" stroke-width="20" stroke-linecap="round"/>
+  <rect x="90" y="115" width="170" height="190" rx="14" fill="#243b53"/>
+  <rect x="115" y="145" width="120" height="28" rx="6" fill="#ffffff"/>
+  <rect x="115" y="195" width="120" height="28" rx="6" fill="#ffffff"/>
+  <rect x="115" y="245" width="120" height="28" rx="6" fill="#ffffff"/>
+  <circle cx="215" cy="159" r="6" fill="#2f80ed"/>
+  <circle cx="215" cy="209" r="6" fill="#2f80ed"/>
+  <circle cx="215" cy="259" r="6" fill="#2f80ed"/>
+  <rect x="640" y="115" width="170" height="190" rx="14" fill="#486581"/>
+  <rect x="665" y="145" width="120" height="28" rx="6" fill="#ffffff"/>
+  <rect x="665" y="195" width="120" height="28" rx="6" fill="#ffffff"/>
+  <rect x="665" y="245" width="120" height="28" rx="6" fill="#ffffff"/>
+  <circle cx="765" cy="159" r="6" fill="#2f80ed"/>
+  <circle cx="765" cy="209" r="6" fill="#2f80ed"/>
+  <circle cx="765" cy="259" r="6" fill="#2f80ed"/>
+  <text x="450" y="380" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="34" font-weight="bold" fill="#243b53">DEVOPS • DOCKER • APACHE</text>
+</svg>
